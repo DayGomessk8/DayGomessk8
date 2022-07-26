@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DayGomessk8
+- 👋 Hi, I’m @Day
 - 👀 I’m interested em aprender bastante
 - 🌱 I’m currently learning  BD, HMTL, CSS, JS e na metade da facul ADS.
 - 💞️ I’m looking to collaborate on ...
